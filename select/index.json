@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Run",
+  "base_artist": "エイウォルネイション",
+  "createdAt": "2026-02-17T02:58:24.478512Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Drum Run",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Drum_Run_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "'Till the Rivers All Run Dry",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/02_'Till_the_Rivers_All_Run_Dry_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "'Till The Rivers All Run Dry (Single Version)",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/03_'Till_The_Rivers_All_Run_Dry_(Single_Version)_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Good Run Of Bad Luck",
+      "artist": "Clint Black",
+      "has_synced": true,
+      "path": "select/04_A_Good_Run_Of_Bad_Luck_Clint_Black.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Good Run Of Bad Luck (Album Version)",
+      "artist": "Clint Black",
+      "has_synced": true,
+      "path": "select/05_A_Good_Run_Of_Bad_Luck_(Album_Version)_Clint_Black.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Home Run",
+      "artist": "Joe Nichols",
+      "has_synced": true,
+      "path": "select/06_Home_Run_Joe_Nichols.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Run To You",
+      "artist": "Lady Antebellum",
+      "has_synced": true,
+      "path": "select/07_I_Run_To_You_Lady_Antebellum.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ready to Run",
+      "artist": "The Chicks",
+      "has_synced": true,
+      "path": "select/08_Ready_to_Run_The_Chicks.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Run",
+      "artist": "Lauren Alaina",
+      "has_synced": true,
+      "path": "select/09_Run_Lauren_Alaina.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Run - Live",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/10_Run_-_Live_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Run Away With You",
+      "artist": "Big & Rich",
+      "has_synced": true,
+      "path": "select/11_Run_Away_With_You_Big_&_Rich.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Run Wild",
+      "artist": "Clayton Anderson",
+      "has_synced": false,
+      "path": "select/12_Run_Wild_Clayton_Anderson.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Run, Woman, Run",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/13_Run,_Woman,_Run_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Running Out of Reasons To Run",
+      "artist": "Rick Trevino",
+      "has_synced": true,
+      "path": "select/14_Running_Out_of_Reasons_To_Run_Rick_Trevino.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Running Out Of Reasons To Run (Album Version)",
+      "artist": "Rick Treviño",
+      "has_synced": true,
+      "path": "select/15_Running_Out_Of_Reasons_To_Run_(Album_Version)_Rick_Treviño.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Tennessee River Run",
+      "artist": "Darryl Worley",
+      "has_synced": false,
+      "path": "select/16_Tennessee_River_Run_Darryl_Worley.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Tennessee River Run (Album Version)",
+      "artist": "Darryl Worley",
+      "has_synced": false,
+      "path": "select/17_Tennessee_River_Run_(Album_Version)_Darryl_Worley.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Run",
+      "artist": "AWOLNATION",
+      "has_synced": false,
+      "path": "select/pl_01_Run_AWOLNATION.txt"
+    }
+  ]
+}
